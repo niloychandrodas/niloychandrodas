@@ -4,7 +4,7 @@
 ‎
 ‎🚀 AI Automation Engineer, n8n Workflow Architect, Member of NeuralFlow Technologies.
 ‎
-‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/>
+‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=190&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/>
 ‎
 ‎<br>
 ‎
@@ -84,42 +84,6 @@
 ‎<img src="https://skillicons.dev/icons?i=linux"/>
 ‎
 ‎</p>
-‎
-‎<br/>
-‎
-‎📊 GitHub Analytics<br/>
-‎
-‎<div align="center">
-‎
-‎<img height="180em"
-‎src="https://github-readme-stats.vercel.app/api?username=niloydas05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-‎
-‎<br>
-‎
-‎<img height="180em"
-‎src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloydas05&layout=compact&theme=tokyonight&hide_border=true"/>
-‎
-‎</div>
-‎
-‎<br/>
-‎
-‎<div align="center">
-‎
-‎🔥 GitHub Streak<br/>
-‎
-‎<img src="https://github-readme-streak-stats.herokuapp.com/?user=niloydas05&theme=tokyonight&hide_border=true"/>
-‎
-‎</div>
-‎
-‎<br/>
-‎
-‎🏆 GitHub Trophy<br/>
-‎
-‎<div align="center">
-‎
-‎<img src="https://github-profile-trophy.vercel.app/?username=niloydas05&theme=tokyonight&no-frame=true&row=2&column=4"/>
-‎
-‎</div>
 ‎
 ‎<br/>
 ‎

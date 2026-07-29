@@ -133,17 +133,15 @@
 ‎
 ‎⚙️ Technology Stack<br/>
 ‎
-‎<div align="center">
-‎
-‎Languages
+‎Languages<br/>
 ‎
 ‎<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,bash"/>
 ‎
-‎Development Tools
+‎Development Tools<br/>
 ‎
 ‎<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 ‎
-‎Automation
+‎Automation<br/>
 ‎
 ‎<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 ‎
@@ -153,21 +151,18 @@
 ‎
 ‎<img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge"/>
 ‎
-‎</div>
-‎
 ‎<br/>
 ‎
 ‎🚀 Services<br/>
 ‎
-‎<div align="center">
-‎➤ Ai Automation 
-➤ CRM
-‎</div>
-‎
-‎<br/>
-‎
+‎➤ Ai Automation</br>
+➤ CRM</br>
+</br>
+
 ‎📂 Featured Work.<br/>
-‎
+‎❌ Not avail able</br>
+</br>
+
 ‎🤖 AI Automation<br/>
 ‎
 ‎✔ Workflow Design<br/>
@@ -353,7 +348,6 @@
 ‎
 ‎</div>
 ‎
-‎---
 ‎
 ‎<div align="center">
 ‎
